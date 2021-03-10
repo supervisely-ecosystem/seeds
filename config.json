@@ -1,0 +1,10 @@
+{
+  "name": "Seeds",
+  "description": "Unlabeled images: sunflower / pumpkin (peeled + unpeeled) / mix",
+  "type": "project",
+  "categories": [
+    "images"
+  ],
+  "icon": "https://img.icons8.com/color/100/000000/paper-bag-with-seeds.png",
+  "icon_background": "#FFFFFF"
+}

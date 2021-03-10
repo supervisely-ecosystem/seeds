@@ -1,0 +1,24 @@
+{
+    "classes": [
+        {
+            "title": "pumpkin-unpeeled",
+            "shape": "polygon",
+            "hotkey": "",
+            "color": "#1200FF"
+        },
+        {
+            "title": "pumpkin-peeled",
+            "shape": "polygon",
+            "hotkey": "",
+            "color": "#FF0000"
+        },
+        {
+            "title": "sunflower",
+            "shape": "polygon",
+            "hotkey": "",
+            "color": "#00FF00"
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
