@@ -21,10 +21,8 @@
 
 <img src="https://i.imgur.com/DmHVwXj.png"/>
 
-Demo project with seeds photos for research. 
-
-Can be used as a playground for:
-- testing different models: classification / segmentation / instance segmentation
+Demo project with seeds photos for research. Can be used as a playground for:
+- testing different models: detection / segmentation / instance segmentation
 - demo for synthetic data
 - all images have the same resolution: 4032 * 2268 => so it is a good test for sliding window approaches
 - modeling some close tasks from different industries, images may have similar properties in terms of lighting conditions, number of objects and their sizes, camera positions, etc; for example:
