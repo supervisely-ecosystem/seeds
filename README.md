@@ -56,5 +56,3 @@ Here are some examples:
 - Classes
 
 <img src="https://i.imgur.com/U3TYZPw.png" width="350px"/>
-  
-## Examples
