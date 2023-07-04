@@ -1,5 +1,5 @@
 <div align="center" markdown>
-<img src="https://i.imgur.com/UdBujFN.png" width="250"/>
+<img src="media/eco.png" width="250"/>
 
 # Seeds
 
@@ -19,7 +19,7 @@
 
 ## Overview 
 
-<img src="https://i.imgur.com/DmHVwXj.png"/>
+<img src="media/poster.png"/>
 
 Demo project with seeds photos for research. Can be used as a playground for:
 - testing different models: detection / segmentation / instance segmentation
@@ -33,7 +33,7 @@ Demo project with seeds photos for research. Can be used as a playground for:
   - and so on ...
 
 Here are some examples:
-<img src="https://i.imgur.com/LAiO4Fi.png"/>
+<img src="media/ex1.png"/>
 
 ## Data Statistics
 
@@ -49,8 +49,8 @@ Here are some examples:
     - `05_pumpkin_mx` - mix of peeled and unpeeled pumpkin seeds with different density
     - `06_mix` - mix of sunflower, peeled and unpeeled pumpkin seeds
     
-<img src="https://i.imgur.com/q0sCLsl.png" width="450px"/>
+<img src="media/ds1.png" width="450px"/>
   
 - Classes
 
-<img src="https://i.imgur.com/U3TYZPw.png" width="350px"/>
+<img src="media/ds2.png" width="350px"/>
